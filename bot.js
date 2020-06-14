@@ -27,4 +27,4 @@ return message.channel.send("**You don't have permission to use that command**")
   }
 
 })
-bot.login("your bot token");
+bot.login("NzIxNjI3NzE3MDEwODQ5ODgy.XuXVQg.GNpiyfBD-k6zLbS7XwdArqLUg1o");
